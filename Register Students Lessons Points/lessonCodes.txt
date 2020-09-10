@@ -1,0 +1,7 @@
+﻿AyrıkMatematik-BIL121
+BMG-BIL101
+PG-BIL103
+İşSağlığı-ISG104
+Fizik-TB101
+Matematik-TB102
+YabancıDil-YD101
